@@ -1,0 +1,31 @@
+:anele images/anele.jpg
+:biblethump images/bible.jpg
+:cumhere images/cumhere.jpg
+:catdance images/catdance.gif
+:dance images/dance.gif
+:datboi C:\\Users\\thoma\\Documents\\visual studio 2015\\Projects\\EmoticonBot\\EmoticonBot\\images\\datboi.png
+:darthjulian images/jurian.jpg
+:feelsbadman images/feelsbad.png
+:feelsgoodman images/feelsgood.png
+:feelsbirthdayman C:\\Users\\thoma\\Documents\\visual studio 2015\\Projects\\EmoticonBot\\EmoticonBot\\images\\birthday.png
+:fuckyou images/Fuckyou.png
+:icri images/cri.jpg
+:kappa images/kappa.png
+:kreygasm images/krey.png
+:like images/like.png
+:lul images/lul.png
+:mau5 images/mau5.png
+:mondays images/mondays.jpg
+:mrdestructoid images/mrdestructoid.png
+:nay C:\\Users\\thoma\\Documents\\visual studio 2015\\Projects\\EmoticonBot\\EmoticonBot\\images\\nay.png
+:nocookies images/cookies.jpg
+:notlikethis C:\\Users\\thoma\\Documents\\visual studio 2015\\Projects\\EmoticonBot\\EmoticonBot\\images\\not.png
+:punchtrees images/steve.png
+:putmeinacouch images/coach.jpg
+:sexyhat images/hat.jpg
+:smorc images/smorc.png
+:ssssss images/creeper.png
+:thumbsup images/thumbsup.png
+:yea C:\\Users\\thoma\\Documents\\visual studio 2015\\Projects\\EmoticonBot\\EmoticonBot\\images\\yea.png
+:vaultboy images/vaultboy.png
+:weather location 
