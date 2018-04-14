@@ -47,7 +47,7 @@ namespace EmoticonBot
                .BuildServiceProvider();
 
             Console.WriteLine(client.LoginState.ToString());
-            string token = "MjA3NDMyODA1NDA2MzQzMTY4.C0aG_w.twsTuMXdrhz9EjGO5OvDMNRICtU"; // Remember to keep this private!
+            string token = ""; // Remember to keep this private!
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
             Console.WriteLine("bot connected");
